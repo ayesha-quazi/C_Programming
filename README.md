@@ -1,2 +1,5 @@
 # C_Programming
- This course is designed to take you from a beginner to an advanced C programmer.
+ Here I'll be learning C progamming language, beginner to advance! 
+
+ This course is by CodeWithHarry
+ Link for this course: https://youtube.com/watch?v=aZb0iu4uGwA
